@@ -1,3 +1,29 @@
+// let a = 2;
+// let S = a * a;
+
+// console.log("Kvadratning yuzasi" + " " + S);
+
+
+
+// 2-masala
+// let a = 15
+// let b = 20
+// let S = a * b
+// let P = 2 * (a + b)
+
+// console.log("To'rtburchakning parametri" + " " + P);
+// console.log("To'rtburchakning yuzasi" + " " + S);
+
+
+
+// 3-masala
+// let d = 10
+// let pi = 3.14
+// let L = d * pi
+
+// console.log("Uning uzunligi" + " " + L + "sm")
+
+
 // 4-masala
 // let d = +prompt("d qiymatni kiriting!")
 // console.log("Aylananing deametri " + " " + d * Math.PI);
